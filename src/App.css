@@ -5,10 +5,13 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-
+.app h3 {
+  margin-bottom: 20px;
+}
 .wrapper {
   background-color: rgb(241, 238, 238);
   padding: 100px;

@@ -24,6 +24,7 @@ function App() {
 
   return (
     <div className="app">
+      <h3>PayPal Checkout sample page</h3>
       <div className="wrapper">
         <div className="inputContainer">
           <label>Enter the amount</label>
